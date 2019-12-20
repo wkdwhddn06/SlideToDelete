@@ -12,7 +12,7 @@
 ## Quick Start
 1. Add this in your `build.gradle (app)` at the end of project
 ```gradle
-allprojects {
+
 	repositories {
 		maven { url 'https://jitpack.io' }
 	}
